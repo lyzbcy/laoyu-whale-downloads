@@ -1,3 +1,11 @@
+## 0.6.1 正式发行 · 2026-10-27
+
+[下载最新正式版](https://github.com/lyzbcy/laoyu-whale-downloads/releases/tag/v0.6.1)：Windows x64安装版/ZIP、Mac Apple Silicon ARM64 DMG/ZIP，无Intel Mac包。
+
+已支持应用内更新和问题反馈；旧无更新器版本首次请手动安装一次。Mac未Apple公证，Windows未代码签名。当前QQ组件仅限非商业使用；Mac最终QQ/模型闭环未重新验收，详见发行说明。
+
+以下保留原使用说明和历史记录；版本及平台以最新发行说明为准。
+
 # 大肥鲸宠物助手
 
 捞鱼工作室的 QQ AI 小宠物，Windows x64 公开测试版。
